@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jnsaraiva.github.io/docs-32a1w2/sitemap.xml
